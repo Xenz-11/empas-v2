@@ -7,5 +7,5 @@ pkg install git
 ```python
 git clone https://github.com/Xenz-11/empas-v2
 cd empas-v2
-python -m pip install requirement.txt
+python -m pip install requirements.txt
 python empas.py
