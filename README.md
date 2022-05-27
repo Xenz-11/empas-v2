@@ -5,6 +5,8 @@ pkg install wget
 pkg install git
 ```
 ```python
+cd $HOME
+rm -rf empas-v2
 git clone https://github.com/Xenz-11/empas-v2
 cd empas-v2
 python -m pip install requirements.txt
